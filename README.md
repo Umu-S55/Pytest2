@@ -1,2 +1,3 @@
-# Pytest2
-pytest2
+edit configuretionで追加
+-pytest
+parametersに-s追加
